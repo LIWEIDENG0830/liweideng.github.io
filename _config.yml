@@ -21,12 +21,12 @@ repository               : "liweideng0830.github.io/liweideng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "running_cat.png"
   name             : "Liwei Deng"
   pronouns         : # example: "she/her"  
   bio              : "A CS PhD student from UESTC"
   location         : "Chengdu, Sichuan, P.R. China"
-  employer         : "None"
+  employer         : # "None"
   uri              : # URL
   email            : "denglw0830@gmail.com" 
 
