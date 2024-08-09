@@ -14,3 +14,5 @@ My research interest includes spatio-Temporal data mining, trajectory computing,
 You can find my CV here: [Chinese CV](../assets/LiweiDeng_CV_0807.pdf)
 
 Please feel free if you have any question that need to contact with me [Email](denglw0830@gmail.com)
+
+<font color="red"> NOTE: This homepage is developing now! There will be plenty of misinformation! If you want to learn more about me accurately, please see the CV above. </font>
